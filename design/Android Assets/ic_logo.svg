@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Portrait" transform="translate(-84.000000, -224.000000)">
+            <g id="ic_logo" transform="translate(84.000000, 224.000000)">
+                <circle id="Oval" fill="#F0990A" cx="96" cy="96" r="96"></circle>
+                <text id="My" font-family="STHeitiSC-Medium, Heiti SC" font-size="27" font-weight="bold" letter-spacing="-0.651176453" fill="#000000">
+                    <tspan x="58" y="79">My</tspan>
+                </text>
+                <text id="Jobs" font-family="STHeitiSC-Medium, Heiti SC" font-size="71" font-weight="bold" letter-spacing="-1.71235132" fill="#FFFFFF">
+                    <tspan x="21" y="126">Jobs</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
